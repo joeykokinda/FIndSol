@@ -1,1 +1,9 @@
-/target
+
+/target/
+Cargo.lock # For executables, remove for libraries
+*.rs.bk
+*.pdb
+
+# Editor-specific
+.vscode/
+.idea/
