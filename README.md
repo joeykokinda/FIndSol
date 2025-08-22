@@ -1,5 +1,4 @@
-#Find Sol
-Description
+#FindSol
 
 FindSol is a Rust-based Solana wallet key generator and balance checker. It continuously creates new random keypairs, queries the Solana mainnet for balances, and reports if any wallet contains SOL.
 
